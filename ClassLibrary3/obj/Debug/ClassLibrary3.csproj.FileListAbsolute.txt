@@ -1,0 +1,15 @@
+C:\Users\nikit\source\repos\WpfApp4\ClassLibrary3\bin\Debug\ClassLibrary3.dll.config
+C:\Users\nikit\source\repos\WpfApp4\ClassLibrary3\bin\Debug\ClassLibrary3.dll
+C:\Users\nikit\source\repos\WpfApp4\ClassLibrary3\bin\Debug\ClassLibrary3.pdb
+C:\Users\nikit\source\repos\WpfApp4\ClassLibrary3\bin\Debug\ClassLibrary2.dll
+C:\Users\nikit\source\repos\WpfApp4\ClassLibrary3\bin\Debug\EntityFramework.dll
+C:\Users\nikit\source\repos\WpfApp4\ClassLibrary3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nikit\source\repos\WpfApp4\ClassLibrary3\bin\Debug\ClassLibrary2.pdb
+C:\Users\nikit\source\repos\WpfApp4\ClassLibrary3\bin\Debug\ClassLibrary2.dll.config
+C:\Users\nikit\source\repos\WpfApp4\ClassLibrary3\bin\Debug\EntityFramework.xml
+C:\Users\nikit\source\repos\WpfApp4\ClassLibrary3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nikit\source\repos\WpfApp4\ClassLibrary3\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\nikit\source\repos\WpfApp4\ClassLibrary3\obj\Debug\ClassLibrary3.csprojAssemblyReference.cache
+C:\Users\nikit\source\repos\WpfApp4\ClassLibrary3\obj\Debug\ClassLibrary3.csproj.CopyComplete
+C:\Users\nikit\source\repos\WpfApp4\ClassLibrary3\obj\Debug\ClassLibrary3.dll
+C:\Users\nikit\source\repos\WpfApp4\ClassLibrary3\obj\Debug\ClassLibrary3.pdb
